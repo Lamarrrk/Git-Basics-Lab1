@@ -33,4 +33,4 @@ java MarkdownToHtml <path to file.txt> --out <path to output file.html>
 
 # Thank you for using this application!
 
-Here you can follow the link to see revert commit: [https://github.com/Lamarrrk/Git-Basics-Lab1/commit/5b346df2a58acbed06b4ccc24172f58a6293e285] (https://github.com/Lamarrrk/Git-Basics-Lab1/commit/5b346df2a58acbed06b4ccc24172f58a6293e285)
+Here you can follow the link to see revert commit: [https://github.com/Lamarrrk/Git-Basics-Lab1/commit/5b346df2a58acbed06b4ccc24172f58a6293e285](https://github.com/Lamarrrk/Git-Basics-Lab1/commit/5b346df2a58acbed06b4ccc24172f58a6293e285)
