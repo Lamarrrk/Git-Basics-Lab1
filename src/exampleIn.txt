@@ -1,0 +1,10 @@
+This is text in Markdown format. In our work, we consider a very truncated subset of this markup language. The text can be divided into paragraphs, leaving 1 (one) blank line between paragraphs.
+
+We can highlight text **bold**, make it _italic_ or fixed width''. It is also possible to save `fragments` of reformatted text:
+
+This text is reformatted.
+```
+This means that it **will**
+be displayed as is
+```
+and no other formatting such as **bold** or _italics_ will be applied to it
